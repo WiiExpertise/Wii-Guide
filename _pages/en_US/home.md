@@ -16,7 +16,7 @@ The guide is also available in other languages! To change the language, please p
 
 [**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to software not authorized by Nintendo. This can include games, utilities, emulators and much more!
 
-Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in Wii's software. The modifications installed by following this guide will give you easy and persistent access to Wii homebrew.
+Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in the Wii's software. The modifications installed by following this guide will give you easy and persistent access to Wii homebrew.
 
 ## What can I do with homebrew?
 
@@ -27,7 +27,6 @@ Here's a list of things you can do using homebrew. While this list is by no mean
 - Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
 - Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
 - Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
-- Download new homebrew apps with the [Homebrew Browser](hbb)
 - Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
 - Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
 - Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
@@ -36,18 +35,14 @@ Here's a list of things you can do using homebrew. While this list is by no mean
 
 ## Ready?
 
-Get started by [choosing your exploit](get-started)!
+Get started by [choosing your console](get-started-console)!
 {: .notice--info}
 
 ## More Resources
 
-There are also few more good resources for Wii modding and troubleshooting that can help:
-
-- [ModMii](http://xflak.com/)
+WiiBrew is a valuable Wii homebrew wiki:
 - [WiiBrew](https://wiibrew.org/)
-- [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/)
-...and of course, this site
+
 
 For modding a Wii U, follow this guide:
-- [NH Wii U Guide](https://wiiu.hacks.guide)
+- [Wii U Guide](https://wiiu.hacks.guide)
